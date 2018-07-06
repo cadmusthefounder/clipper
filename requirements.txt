@@ -1,0 +1,1 @@
+git+https://github.com/ucbrise/clipper.git@develop#subdirectory=clipper_admin
